@@ -2,7 +2,7 @@
 void main()
 {
 int i,n,var=0;
-printf("\n enter a number:");
+printf("\n enter a number");
 sacnf("%d",&n);
 for(i=2;i<=n/2;i++)
 {
