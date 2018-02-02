@@ -5,7 +5,7 @@ int main(){
     return 0;
 }
 /*
- *  Function to print "Hello World"
+ *  Function to print "Hello World:"
  */
 void printHelloWorld(){
     printf("Hello World\n");
