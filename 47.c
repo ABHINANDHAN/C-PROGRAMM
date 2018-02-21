@@ -21,6 +21,8 @@ int main()
            min=a[i];
        }
    }
-   printf("min:%d\nmax:%d",min,max);
+   
+	
+	printf("min:%d\nmax:%d",min, max);
 	return 0;
 }
